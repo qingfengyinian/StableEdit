@@ -1,5 +1,4 @@
 # StableEdit
-[![arXiv](https://img.shields.io/badge/arXiv-2605.11836-b31b1b.svg)](https://arxiv.org/abs/2605.11836)
 
  Official code for the ICML 2026 paper [More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing](https://arxiv.org/abs/2605.11836).
 
